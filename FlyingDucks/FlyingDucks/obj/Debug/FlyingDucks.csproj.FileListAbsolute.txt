@@ -1,0 +1,13 @@
+c:\users\jeff_cvaw3qe\documents\visual studio 2013\Projects\FlyingDucks\FlyingDucks\bin\Debug\FlyingDucks.exe.config
+c:\users\jeff_cvaw3qe\documents\visual studio 2013\Projects\FlyingDucks\FlyingDucks\bin\Debug\FlyingDucks.exe
+c:\users\jeff_cvaw3qe\documents\visual studio 2013\Projects\FlyingDucks\FlyingDucks\bin\Debug\FlyingDucks.pdb
+c:\users\jeff_cvaw3qe\documents\visual studio 2013\Projects\FlyingDucks\FlyingDucks\obj\Debug\FlyingDucks.csprojResolveAssemblyReference.cache
+c:\users\jeff_cvaw3qe\documents\visual studio 2013\Projects\FlyingDucks\FlyingDucks\obj\Debug\MainWindow.baml
+c:\users\jeff_cvaw3qe\documents\visual studio 2013\Projects\FlyingDucks\FlyingDucks\obj\Debug\MainWindow.g.cs
+c:\users\jeff_cvaw3qe\documents\visual studio 2013\Projects\FlyingDucks\FlyingDucks\obj\Debug\App.g.cs
+c:\users\jeff_cvaw3qe\documents\visual studio 2013\Projects\FlyingDucks\FlyingDucks\obj\Debug\FlyingDucks_MarkupCompile.cache
+c:\users\jeff_cvaw3qe\documents\visual studio 2013\Projects\FlyingDucks\FlyingDucks\obj\Debug\FlyingDucks.g.resources
+c:\users\jeff_cvaw3qe\documents\visual studio 2013\Projects\FlyingDucks\FlyingDucks\obj\Debug\FlyingDucks.Properties.Resources.resources
+c:\users\jeff_cvaw3qe\documents\visual studio 2013\Projects\FlyingDucks\FlyingDucks\obj\Debug\FlyingDucks.csproj.GenerateResource.Cache
+c:\users\jeff_cvaw3qe\documents\visual studio 2013\Projects\FlyingDucks\FlyingDucks\obj\Debug\FlyingDucks.exe
+c:\users\jeff_cvaw3qe\documents\visual studio 2013\Projects\FlyingDucks\FlyingDucks\obj\Debug\FlyingDucks.pdb
